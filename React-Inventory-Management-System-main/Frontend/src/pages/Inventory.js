@@ -118,7 +118,7 @@ function Inventory() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                    $2000
+                  ₹0
                   </span>
                   <span className="font-thin text-gray-400 text-xs">
                     Revenue
@@ -133,7 +133,7 @@ function Inventory() {
               <div className="flex gap-8">
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                    5
+                    0
                   </span>
                   <span className="font-thin text-gray-400 text-xs">
                     Last 7 days
@@ -141,7 +141,7 @@ function Inventory() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                    $1500
+                  ₹0
                   </span>
                   <span className="font-thin text-gray-400 text-xs">Cost</span>
                 </div>
