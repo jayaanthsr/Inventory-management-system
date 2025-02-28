@@ -118,7 +118,7 @@ function Inventory() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                  ₹0
+                    ₹0
                   </span>
                   <span className="font-thin text-gray-400 text-xs">
                     Revenue
